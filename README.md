@@ -4,12 +4,12 @@
 </h1>
 
 <div align="center">
- 基于<a href="https://github.com/HGthecode/apidoc" target="_blank">ApiDoc</a>的导出插件
+ 基于<a href="https://github.com/HGthecode/apidoc-php" target="_blank">ApiDoc</a>的导出插件
 </div>
 
 ## 📌提示
 
-本项目是基于[ApiDoc](https://github.com/HGthecode/apidoc)的导出插件，需要先安装ApiDoc才能使用
+本项目是基于[ApiDoc](https://github.com/HGthecode/apidoc-php)的导出插件，需要先安装ApiDoc才能使用
 
 
 ## 📖使用文档
